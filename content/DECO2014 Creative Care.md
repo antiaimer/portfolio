@@ -4,6 +4,7 @@ tags:
 cssclasses:
 date:
 ---
+
 # Context
 ## The Brief
 We were asked to design interactive experiences around care as an emotional, physical, social, and ethical practice to use digital technologies to deepen empathy, connection, and wellbeing for [[DECO2014]].
@@ -96,3 +97,4 @@ I learned how to develop a concrete design space from an ambiguous care problem.
 
 ## What I Did Well
 I contributed strongly to the development and documentation of the design, as I was in charge of both appendixes. I developed the user testing plan and conducted most of the tests. 
+   
