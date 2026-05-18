@@ -2,6 +2,12 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "portfolio",
   "compatibility_date": "2026-05-18",
+  [pages_build_config]
+  build_command = "git fetch --unshallow && npx quartz build"
+  pages_build_output_dir = "public"
+
+  [vars]
+  NODE_VERSION = "22"
   "observability": {
     "enabled": true
   },
